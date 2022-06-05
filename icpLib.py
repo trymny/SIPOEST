@@ -16,7 +16,7 @@ limitations under the License.
 
 #ICP method is written by Clay Flannigan
 #https://github.com/ClayFlannigan/icp/blob/master/icp.py
-#Changes I have to his code: 
+#Changes I have made to his code: 
 #*commented out the line "assert A.shape == B.shape"
 #*commented out the line "assert src.shape == dst.shape"
 
